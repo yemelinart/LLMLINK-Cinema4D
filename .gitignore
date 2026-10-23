@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.DS_Store
+dist/
+plugin/LLMLINK/runtime.json
+tests/native-output/
+tests/session-backups/
+tests/*result.json
+tests/*.c4d
+tests/panel-error.txt
+tests/live-*.json
+docs/*.png
+
+tests/release-native-output/
